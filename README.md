@@ -59,7 +59,16 @@ Zijian Li*, Shunxing Fan*, Yujia Zheng, Ignavier Ng, Shaoan Xie, Guangyi Chen, X
 International Conference on Learning Representations (ICLR) 2025
 
 If you find this work useful for your research, please cite our paper.
-
+```bash
+@inproceedings{
+li2025synergy,
+title={Synergy Between Sufficient Changes and Sparse Mixing Procedure for Disentangled Representation Learning},
+author={Zijian Li and Shunxing Fan and Yujia Zheng and Ignavier Ng and Shaoan Xie and Guangyi Chen and Xinshuai Dong and Ruichu Cai and Kun Zhang},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=G1r2rBkUdu}
+}
+```
 ## Acknowledgments
 
 We would like to thank the authors of [StyleGAN2-ADA-PyTorch](https://github.com/NVlabs/stylegan2-ada-pytorch) and [i-StyleGAN](https://github.com/Mid-Push/i-stylegan) for their excellent open-source implementations that served as the foundation for this work.
